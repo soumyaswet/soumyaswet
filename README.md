@@ -16,19 +16,19 @@ I'm a **Graphic Designer** who learned to code, a **Python Developer** who learn
 
 I narrate stories through visuals, automate the parts nobody wants to do twice, and keep an eye on **AI** for whenever a model can do it better than I can. Somewhere between Figma tabs and `kubectl` commands, I ship things that look good and stay up.
 
-If you need someone who can design it, build it, and keep it running at 3 AM — that's the job description, apparently.
+If you need someone who can design it, build it, and keep it running at 3 AM  that's the job description, apparently.
 
 <br>
 
 ## Currently Working On
 
-> **Status:** perpetually "in progress" — the universal engineering time zone.
+> **Status:** perpetually "in progress"  the universal engineering time zone.
 
 - Designing brand identities that survive the client feedback round of *"can you make the logo bigger"*
 - Writing Python that automates the tedious parts, so the interesting parts get more attention
-- Building and maintaining CI/CD pipelines so deployments are boring, predictable, and blame-free
-- Exploring AI/ML workflows — mostly convinced the model understands the data better than I do
-- Shipping real, production-facing projects — details soon
+- Building and maintaining CI/CD pipelines so deployments are boring, predictable, and blame free
+- Exploring AI/ML workflows  mostly convinced the model understands the data better than I do
+- Shipping real, production facing projects  details soon
 
 <br>
 
